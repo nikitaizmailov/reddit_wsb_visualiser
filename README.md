@@ -1,5 +1,5 @@
 # reddit_wsb_visualiser
-## Run the below link to access the jupyter notebook globally without the need to install the dependencies.
+### Run the below link to access the jupyter notebook globally without the need to install the dependencies.
 https://mybinder.org/v2/gh/nikitaizmailov/test_web_notebook/74dce2065bef936edefef2c6b8140c8964c80682?filepath=main_final_version.ipynb
 
 Analysing trends and insights of WallStreetBets community on reddit.
