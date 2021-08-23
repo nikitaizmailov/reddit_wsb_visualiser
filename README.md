@@ -1,5 +1,5 @@
 # reddit_wsb_visualiser
-https://hub.gke2.mybinder.org/user/nikitaizmailov-test_web_notebook-593i67ff/notebooks/main_final_version.ipynb
+https://mybinder.org/v2/gh/nikitaizmailov/test_web_notebook/74dce2065bef936edefef2c6b8140c8964c80682?filepath=main_final_version.ipynb
 
 Analysing trends and insights of WallStreetBets community on reddit.
 
