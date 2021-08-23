@@ -1,4 +1,6 @@
 # reddit_wsb_visualiser
+https://hub.gke2.mybinder.org/user/nikitaizmailov-test_web_notebook-593i67ff/notebooks/main_final_version.ipynb
+
 Analysing trends and insights of WallStreetBets community on reddit.
 
 The application allows you to retrieve comments from any subreddit and any subreddit's submission. Also you can just view the last 1000 comments published on any subreddit
